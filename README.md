@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, welcome to my profile!
+
+My name ZiRO (also null2264), a Linux enthusiast.
+
+I really love to do all kind of stuff related to computer.
 
 <!--
 **null2264/null2264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
