@@ -5,10 +5,10 @@ My name ZiRO (also null2264), a Linux enthusiast.
 I really love to do all kind of stuff related to computer.
 
 Active Projects:
-- [Dotfiles](https://github.com/null2264/dotfiles) - Collection of my Configuration file
-- [zi-Dark](https://github.com/null2264/Zi-Dark) - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
-- [Unnamed Minecraft Launcher](https://github.com/null2264/Project-MC-Launcher) - MultiMC fork but can be played without Premium account
-- [IPTV Playlist](https://github.com/null2264/myTV) - Collection of IPTV Channels ( **hiatus** )
+- **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
+- **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
+- **[Unnamed Minecraft Launcher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be played without Premium account
+- **[IPTV Playlist](https://github.com/null2264/myTV)** - Collection of IPTV Channels ( **hiatus** )
 <!--
 **null2264/null2264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
