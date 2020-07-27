@@ -1,8 +1,8 @@
 " =============================================================================
 " Filename: autoload/lightline/colorscheme/zi.vim
-" Author: Zoltan Dalmadi
-" License: MIT License
-" Last Change: 2019/09/09 22:42:48.
+" Author: Ahmad Ansori Palembani (null2264/ZiRO2264)
+" License: NONE
+" Last Change: 2020/07/27 11:17:50.
 " =============================================================================
 
 " Common colors
