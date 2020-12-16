@@ -13,6 +13,7 @@ Active Projects:
 - **[ziLauncher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be used without Premium account
 - **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
 - **[i18n](https://github.com/null2264/i18n)** - Experimental Internationalization System
+- And more other small project...
 
 Hiatus:
 - **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels ( **hiatus** )
