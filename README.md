@@ -5,7 +5,7 @@ My name ZiRO (also null2264), a Linux enthusiast.
 I really love to do all kind of stuff related to computer.
 
 Main Project:
-- **[ziBot](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
+- **[ziBot](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork) ( **hiatus** - Taking a break for awhile, will only fix bugs and stuff for now. )
 
 Active Projects:
 - **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
