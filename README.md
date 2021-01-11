@@ -19,7 +19,7 @@ Hiatus:
 - **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels ( **hiatus** )
 
 Stopped:
-- **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( PRIVATED, can't redistribute textures due to Faithful's licensing )
+- **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to Faithful's licensing )
 
 <!--
 **null2264/null2264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
