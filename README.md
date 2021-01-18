@@ -4,10 +4,13 @@ My name ZiRO (also null2264), a Linux enthusiast.
 
 I really love to do all kind of stuff related to computer.
 
-Main Project:
+<details><summary>Main Projects</summary>
+
 - **[ziBot](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
 
-<details><summary>Active Projects:</summary>
+</details>
+
+<details><summary>Active Projects</summary>
   
 - **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
 - **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
@@ -18,11 +21,17 @@ Main Project:
 
 </details>
 
-Hiatus:
+<details><summary>Projects in Hiatus</summary>
+
 - **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels ( **hiatus** )
 
-Stopped:
+</details>
+
+<details><summary>Cancelled Projects</summary>
+  
 - **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to Faithful's licensing )
+
+</details>
 
 <!--
 **null2264/null2264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
