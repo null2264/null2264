@@ -16,7 +16,7 @@ I really love to do all kind of stuff related to computer.
 - **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
 - **[ziLauncher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be used without Premium account
 - **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
-- **[i18n](https://github.com/null2264/i18n)** - Experimental Internationalization System
+
 - And more other small project...
 
 </details>
@@ -27,9 +27,10 @@ I really love to do all kind of stuff related to computer.
 
 </details>
 
-<details><summary>Cancelled Projects</summary>
+<details><summary>Cancelled/Discontinued Projects</summary>
   
 - **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to Faithful's licensing )
+- **[i18n](https://github.com/null2264/i18n)** - Experimental Internationalization System
 
 </details>
 
