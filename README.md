@@ -6,7 +6,7 @@ I really love to do all kind of stuff related to computer.
 
 <details><summary>Main Projects</summary>
 
-- **[ziBot](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
+- **[Z3R0](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
 
 </details>
 
