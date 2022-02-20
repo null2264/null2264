@@ -11,19 +11,19 @@ I really love to do all kind of stuff related to computer.
 </details>
 
 <details><summary>Active Projects</summary>
-  
+
+- **[Z3R0](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
 - **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
 - **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
-- **[ziLauncher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be used without Premium account
 - **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
-
 - And more other small project...
 
 </details>
 
 <details><summary>Projects in Hiatus</summary>
 
-- **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels ( **hiatus** )
+- **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels
+- **[speedrun.py](https://github.com/null2264/speedrun.py)** - An asynchronous API wrapper for speedrun.com
 
 </details>
 
@@ -31,6 +31,7 @@ I really love to do all kind of stuff related to computer.
   
 - **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to Faithful's licensing )
 - **[i18n](https://github.com/null2264/i18n)** - Experimental Internationalization System
+- **[ziLauncher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be used without Premium account
 
 </details>
 
