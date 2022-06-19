@@ -1,5 +1,7 @@
 ## Hi, welcome to my profile!
 
+[![wakatime](https://wakatime.com/badge/user/e3f91dd5-c937-4d7d-98f5-f2282e7bfb16.svg)](https://wakatime.com/@e3f91dd5-c937-4d7d-98f5-f2282e7bfb16)
+
 My name ZiRO (also null2264), a Linux enthusiast.
 
 I really love to do all kind of stuff related to computer.
