@@ -1,12 +1,33 @@
-## Hi, welcome to my profile!
+## Hi, my name is ZiRO (also known as null2264, or aap2264)
 
 [![wakatime](https://wakatime.com/badge/user/e3f91dd5-c937-4d7d-98f5-f2282e7bfb16.svg)](https://wakatime.com/@e3f91dd5-c937-4d7d-98f5-f2282e7bfb16)
 
-My name ZiRO (also null2264), a Linux enthusiast.
+> a Linux and FOSS enthusiast. I really love to do all kind of experiments related to computer.
 
-I really love to do all kind of stuff related to computer.
+### Setup
+<details open><summary>Desktop (Main Setup)</summary>
 
-<details><summary>Main Projects</summary>
+**CPU**: Intel Pentium G2010 2.80GHz  
+**GPU**: Intel HD2500  
+**RAM**: 12GB (8GB + 4GB)  
+**Storage**: 500GB HDD  
+**OS**: Arch Linux  
+
+</details>
+
+<details><summary>Laptop (Lenovo ThinkPad L460)</summary>
+
+**CPU**: Intel Core i5-6200U  
+**GPU**: Intel HD530  
+**RAM**: 8GB  
+**Storage**: 256GB SSD  
+**OS**: Arch Linux  
+
+</details>
+
+### Projects
+
+<details open><summary>Main Projects</summary>
 
 - **[Z3R0](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
 
@@ -33,23 +54,8 @@ I really love to do all kind of stuff related to computer.
 
 <details><summary>Cancelled/Discontinued Projects</summary>
   
-- **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to Faithful's licensing )
+- **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to XMrVizzy/Kraineff Faithful's licensing. [**Check out new and real faithful instead!**](https://faithfulpack.net/) )
 - **[i18n](https://github.com/null2264/i18n)** - Experimental Internationalization System
 - **[ziLauncher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be used without Premium account
 
 </details>
-
-<!--
-**null2264/null2264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
