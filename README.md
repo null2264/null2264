@@ -7,21 +7,25 @@
 ### Setup
 <details open><summary>Desktop (Main Setup)</summary>
 
-**CPU**: Intel Pentium G2010 2.80GHz  
-**GPU**: Intel HD2500  
-**RAM**: 12GB (8GB + 4GB)  
-**Storage**: 500GB HDD  
-**OS**: Arch Linux  
+|**Model**| Biostar H61MLV2 |
+|:-|:-|
+|**Processor**| Intel Pentium G2010 2.80GHz |
+|**Graphics**| Integrated Intel HD Graphics 2500 |
+|**Memory**| 12GB (8GB + 4GB) |
+|**Storage**| 500GB HDD |
+|**OS**| Arch Linux |
 
 </details>
 
-<details><summary>Laptop (Lenovo ThinkPad L460)</summary>
+<details><summary>Laptop</summary>
 
-**CPU**: Intel Core i5-6200U  
-**GPU**: Intel HD530  
-**RAM**: 8GB  
-**Storage**: 256GB SSD  
-**OS**: Arch Linux  
+|**Model**| Lenovo ThinkPad L460 |
+|:-|:-|
+|**Processor**| Intel Core i5-6200U 2.50GHz / 3.00GHz |
+|**Graphics**| Integrated Intel HD Graphics 530 |
+|**Memory**| 8GB |
+|**Storage**| 256 SSD |
+|**OS**| macOS Monterey (v12.4 - OCv0.8.0) |
 
 </details>
 
