@@ -25,7 +25,7 @@
 |**Graphics**| Integrated Intel HD Graphics 520 |
 |**Memory**| 8GB |
 |**Storage**| 256 SSD |
-|**OS**| macOS Monterey (v12.4 - OCv0.8.0) |
+|**OS**| macOS Monterey (v12.4 - OCv0.8.2) |
 
 </details>
 
