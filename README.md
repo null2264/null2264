@@ -17,12 +17,12 @@
 
 </details>
 
-<details><summary>Laptop</summary>
+<details><summary>Laptop (Hackintosh Setup)</summary>
 
 |**Model**| Lenovo ThinkPad L460 |
 |:-|:-|
 |**Processor**| Intel Core i5-6300U 2.50GHz / 3.00GHz |
-|**Graphics**| Integrated Intel HD Graphics 520 |
+|**Graphics**| Integrated Intel HD Graphics 520 (Spoofed as 620 for Ventura) |
 |**Memory**| 8GB |
 |**Storage**| 256 SSD |
 |**OS**| macOS Monterey (v12.4 - OCv0.8.2) |
