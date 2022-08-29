@@ -39,7 +39,6 @@
 
 <details><summary>Active Projects</summary>
 
-- **[SkinCan](https://github.com/SkinCanOrg/SkinCan)** - A libre skin cancer detection app (made for Bangkit 2022)
 - **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
 - **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
 - **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
@@ -51,6 +50,7 @@
 
 <details><summary>Projects in Hiatus</summary>
 
+- **[SkinCan](https://github.com/SkinCanOrg/SkinCan)** - A libre skin cancer detection app (made for Bangkit 2022)
 - **[Z3R0](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
 - **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels
 - **[speedrun.py](https://github.com/null2264/speedrun.py)** - An asynchronous API wrapper for speedrun.com
