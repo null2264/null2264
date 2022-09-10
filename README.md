@@ -25,7 +25,7 @@
 |**Graphics**| Integrated Intel HD Graphics 520 |
 |**Memory**| 8GB |
 |**Storage**| 256 SSD |
-|**OS**| macOS Monterey (v12.5.1 - OCv0.8.3) |
+|**OS**| macOS Monterey (v12.5.1 - OCv0.8.4) |
 
 </details>
 
@@ -43,7 +43,7 @@
 - **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
 - **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
 - **[CobbleGen](https://github.com/null2264/CobbleGen)** - A fabric mod that allows you to customize/randomize cobblestone generator
-- **[Structure World: Revived](https://github.com/null2264/structure-world)** - A small fabric mod that lets you generate a void world with a custom structure placed on it
+- **[Skyblock Creator](https://github.com/null2264/SkyblockCreator)** - A fabric mod that lets you add skyblock-like world type(s)
 - And more other small project...
 
 </details>
