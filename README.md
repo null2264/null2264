@@ -40,7 +40,7 @@
 <details><summary>Active Projects</summary>
 
 - **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
-- **[zi-Dark](https://github.com/null2264/Zi-Dark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
+- **[ziDark](https://github.com/null2264/ziDark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
 - **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
 - **[CobbleGen](https://github.com/null2264/CobbleGen)** - A fabric mod that allows you to customize/randomize cobblestone generator
 - **[Skyblock Creator](https://github.com/null2264/SkyblockCreator)** - A fabric mod that lets you add skyblock-like world type(s)
