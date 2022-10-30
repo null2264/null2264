@@ -9,7 +9,7 @@
 
 </div>
 
-#### Tools
+#### Tools (Oldest to Most Recently Learnt)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
@@ -17,7 +17,11 @@
 ![Blender3D](https://img.shields.io/badge/-Blender3D-black?style=flat&logo=blender)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnubash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)
@@ -30,9 +34,11 @@
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
 ![macOS](https://img.shields.io/badge/-macOS-black?style=flat&logo=macos)
 ![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
 
 <details open><summary>
