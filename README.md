@@ -29,6 +29,9 @@
 ![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-black?style=flat&logo=inkscape)
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
+![Octave](https://img.shields.io/badge/-Octave-black?style=flat&logo=octave)
+![MatLab](https://img.shields.io/badge/-MatLab-black?style=flat&logo=matlab)
 ![IDEA](https://img.shields.io/badge/-IDEA-black?style=flat&logo=intellijidea)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)
@@ -41,6 +44,7 @@
 ![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
+![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
 
 <details open><summary>
