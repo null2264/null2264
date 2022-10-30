@@ -5,7 +5,9 @@
 > a Linux and FOSS enthusiast. I really love to do all kind of experiments related to computer.
 
 ### Setup
-<details open><summary>Desktop (Main Setup)</summary>
+
+<details><summary><b>Desktop (Main Setup)</b></summary>
+<br/>
 
 |**Model**| Biostar H61MLV2 |
 |:-|:-|
@@ -17,7 +19,8 @@
 
 </details>
 
-<details><summary>Laptop (Hackintosh Setup)</summary>
+<details><summary><b>Laptop (Hackintosh Setup)</b></summary>
+<br/>
 
 |**Model**| Lenovo ThinkPad L460 |
 |:-|:-|
@@ -31,36 +34,28 @@
 
 ### Projects
 
-<details open><summary>Main Projects</summary>
+#### Main
 
-- **[Z3R0](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
+[![A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)](https://img.shields.io/badge/-Z3R0-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/ziBot)
 
-</details>
+#### Active
 
-<details><summary>Active Projects</summary>
+[![Collection of my Configuration file](https://img.shields.io/badge/-dotfiles-black?style=flat&logo=linux)](https://github.com/null2264/dotfiles)
+[![Custom CSS/Theme that use zi colorscheme (my custom colorscheme)](https://img.shields.io/badge/-ziDark-black?style=flat&logo=css3)](https://github.com/null2264/ziDark)
+[![Fun experiment with python's PIL](https://img.shields.io/badge/-imagemanip-black?style=flat&logo=python)](https://github.com/null2264/imagemanip)
+[![A fabric mod that allows you to customize/randomize cobblestone generator](https://img.shields.io/badge/-CobbleGen-black?style=flat&logo=minecraft)](https://github.com/null2264/CobbleGen)
+[![A fabric mod that lets you add skyblock-like world type(s)](https://img.shields.io/badge/-Skyblock%20Creator-black?style=flat&logo=minecraft)](https://github.com/null2264/SkyblockCreator)
+[![](https://img.shields.io/badge/-And%20more%20other%20small%20project...-black?style=flat&logo=github)](https://github.com/null2264)
 
-- **[Dotfiles](https://github.com/null2264/dotfiles)** - Collection of my Configuration file
-- **[ziDark](https://github.com/null2264/ziDark)** - Custom CSS/Theme that use zi colorscheme (my custom colorscheme)
-- **[imagemanip](https://github.com/null2264/imagemanip)** - Fun experiment with python's PIL
-- **[CobbleGen](https://github.com/null2264/CobbleGen)** - A fabric mod that allows you to customize/randomize cobblestone generator
-- **[Skyblock Creator](https://github.com/null2264/SkyblockCreator)** - A fabric mod that lets you add skyblock-like world type(s)
-- And more other small project...
+#### Hiatus
 
-</details>
+[![A libre skin cancer detection app (made for Bangkit 2022)](https://img.shields.io/badge/-SkinCan-black?style=flat&logo=kotlin)](https://github.com/SkinCanOrg/SkinCan)
+[![A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)](https://img.shields.io/badge/-Z3R0-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/ziBot)
+[![Collection of IPTV Channels](https://img.shields.io/badge/-ziTV-black?style=flat&logo=appletv)](https://github.com/null2264/ziTV)
+[![An asynchronous API wrapper for speedrun.com](https://img.shields.io/badge/-speedrun.py-black?style=flat&logo=python)](https://github.com/null2264/speedrun.py)
 
-<details><summary>Projects in Hiatus</summary>
+#### Discontinued
 
-- **[SkinCan](https://github.com/SkinCanOrg/SkinCan)** - A libre skin cancer detection app (made for Bangkit 2022)
-- **[Z3R0](https://github.com/ZiRO-Bot/ziBot)** - A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)
-- **[ziTV *formerly IPTV Playlist*](https://github.com/null2264/ziTV)** - Collection of IPTV Channels
-- **[speedrun.py](https://github.com/null2264/speedrun.py)** - An asynchronous API wrapper for speedrun.com
-
-</details>
-
-<details><summary>Cancelled/Discontinued Projects</summary>
-  
-- **[Faithful BE](https://github.com/null2264/Faithful-BE)** - Bedrock Port for Faithful 32x ( **PRIVATED**, can't redistribute textures due to XMrVizzy/Kraineff Faithful's licensing. [**Check out new and real faithful instead!**](https://faithfulpack.net/) )
-- **[i18n](https://github.com/null2264/i18n)** - Experimental Internationalization System
-- **[ziLauncher](https://github.com/null2264/Project-MC-Launcher)** - MultiMC fork but can be used without Premium account
-
-</details>
+[![Bedrock Port for Faithful 32x](https://img.shields.io/badge/-Faithful%20BE-black?style=flat&logo=minecraft)](https://github.com/null2264/Faithful-BE)
+[![Experimental Internationalization System](https://img.shields.io/badge/-i18n-black?style=flat&logo=googletranslate)](https://github.com/null2264/i18n)
+[![MultiMC fork but can be used without Premium account](https://img.shields.io/badge/-ziLauncher-black?style=flat&logo=cplusplus)](https://github.com/null2264/Project-MC-Launcher)
