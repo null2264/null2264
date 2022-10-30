@@ -21,6 +21,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP%20Unfortunately...-black?style=flat&logo=php)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnubash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
