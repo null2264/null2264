@@ -9,6 +9,32 @@
 
 </div>
 
+#### Tools
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
+![Blender3D](https://img.shields.io/badge/-Blender3D-black?style=flat&logo=blender)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnubash)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
+![VSCodium](https://img.shields.io/badge/-VSCodium-black?style=flat&logo=vscodium)
+![NeoVim](https://img.shields.io/badge/-NeoVim-black?style=flat&logo=neovim)
+![Inkscape](https://img.shields.io/badge/-Inkscape-black?style=flat&logo=inkscape)
+![IDEA](https://img.shields.io/badge/-IDEA-black?style=flat&logo=intellijidea)
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
+![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino)
+![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat&logo=kotlin)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat&logo=macos)
+![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
+
 <details open><summary>
   
   #### Main Setup (Desktop)
