@@ -72,10 +72,10 @@
 |**Model**| Lenovo ThinkPad L460 |
 |:-|:-|
 |**Processor**| Intel Core i5-6300U 2.50GHz / 3.00GHz |
-|**Graphics**| Intel HD Graphics 520 (Spoofed as 620) |
+|**Graphics**| Intel HD Graphics 520 (Spoofed as HD620) |
 |**Memory**| 8GB |
 |**Storage**| 256 SSD |
-|**OS**| macOS Monterey (v12.6.1 - OCv0.8.5) |
+|**OS**| macOS Ventura (v13.0 - OCv0.8.5) |
 
 </details>
 
