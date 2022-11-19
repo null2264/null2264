@@ -105,7 +105,7 @@
 [![Experimental Internationalization System](https://img.shields.io/badge/-i18n-black?style=flat&logo=googletranslate)](https://github.com/null2264/i18n)
 [![MultiMC fork but can be used without Premium account](https://img.shields.io/badge/-ziLauncher-black?style=flat&logo=cplusplus)](https://github.com/null2264/Project-MC-Launcher)
 
-### Contacts
+#### Contacts
 [![email](https://img.shields.io/badge/-me@palembani.xyz-black?style=flat&logo=gmail)](mailto:me@palembani.xyz)
 [![twitter](https://img.shields.io/badge/-@ZiRO2264-black?style=flat&logo=twitter)](https://twitter.com/ZiRO2264)
 [![youtube](https://img.shields.io/badge/-@null2264-black?style=flat&logo=youtube)](https://www.youtube.com/@null2264)
