@@ -11,6 +11,7 @@
 
 #### Tools (Oldest to Most Recently Learnt)
 
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat&logo=latex)
@@ -18,9 +19,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?style=flat&logo=arch-linux)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![NGINX](https://img.shields.io/badge/-NGINX-black?style=flat&logo=nginx)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP%20Unfortunately...-black?style=flat&logo=php)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb)
@@ -46,6 +49,13 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase)
 ![R](https://img.shields.io/badge/-R-black?style=flat&logo=r)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat&logo=prometheus)
+![Fedora](https://img.shields.io/badge/-Fedora-black?style=flat&logo=fedora)
+![Podman](https://img.shields.io/badge/-Podman-black?style=flat&logo=podman)
+![pi-hole](https://img.shields.io/badge/-pi%96hole-black?style=flat&logo=pihole)
+![Traefik](https://img.shields.io/badge/-Traefik-black?style=flat&logo=traefik-proxy)
 
 <details open><summary>
   
