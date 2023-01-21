@@ -98,6 +98,7 @@
 [![A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)](https://img.shields.io/badge/-Z3R0-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/ziBot)
 [![Collection of my Configuration file](https://img.shields.io/badge/-dotfiles-black?style=flat&logo=linux)](https://github.com/null2264/dotfiles)
 [![Custom CSS/Theme that use zi colorscheme (my custom colorscheme)](https://img.shields.io/badge/-ziDark-black?style=flat&logo=css3)](https://github.com/null2264/ziDark)
+[![My Hackintosh EFI for ThinkPad L460](https://img.shields.io/badge/-L460%20Hackintosh-black?style=flat&logo=apple)](https://github.com/null2264/L460-Hackintosh)
 [![API with random content inside](https://img.shields.io/badge/-RandomAPI-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/RandomAPI)
 [![A fabric mod that allows you to customize/randomize cobblestone generator](https://img.shields.io/badge/-CobbleGen-black?style=flat&logo=minecraft)](https://github.com/null2264/CobbleGen)
 [![A fabric mod that lets you add skyblock-like world type(s)](https://img.shields.io/badge/-Skyblock%20Creator-black?style=flat&logo=minecraft)](https://github.com/null2264/SkyblockCreator)
