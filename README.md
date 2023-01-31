@@ -56,6 +56,7 @@
 ![Podman](https://img.shields.io/badge/-Podman-black?style=flat&logo=podman)
 ![pi-hole](https://img.shields.io/badge/-pi%96hole-black?style=flat&logo=pihole)
 ![Traefik](https://img.shields.io/badge/-Traefik-black?style=flat&logo=traefik-proxy)
+![ASL](https://img.shields.io/badge/-ASL-black?style=flat&logo=asl)
 
 <details open><summary>
   
