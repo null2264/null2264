@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>ZiRO (also known as null2264, or aap2264)</h1>
+  <h1>Ahmad Ansori Palembani <br/> (ZiRO/null/aap(2264))</h1>
   
   a Linux and FOSS enthusiast. I really love to do all kind of experiments related to computer.
   
