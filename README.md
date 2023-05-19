@@ -59,6 +59,7 @@
 ![ASL](https://img.shields.io/badge/-ASL-black?style=flat&logo=asl)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
 ![Tauri](https://img.shields.io/badge/-Tauri-black?style=flat&logo=tauri)
+![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat&logo=gradle)
 
 <details open><summary>
   
