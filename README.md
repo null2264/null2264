@@ -60,6 +60,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
 ![Tauri](https://img.shields.io/badge/-Tauri-black?style=flat&logo=tauri)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat&logo=gradle)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
 
 <details open><summary>
   
