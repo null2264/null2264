@@ -61,6 +61,7 @@
 ![Tauri](https://img.shields.io/badge/-Tauri-black?style=flat&logo=tauri)
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat&logo=gradle)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+![Caddy](https://img.shields.io/badge/-Caddy-black?style=flat&logo=caddy)
 
 <details open><summary>
   
