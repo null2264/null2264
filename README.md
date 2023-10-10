@@ -62,6 +62,8 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat&logo=gradle)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
 ![Caddy](https://img.shields.io/badge/-Caddy-black?style=flat&logo=caddy)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next)
 
 <details open><summary>
   
@@ -107,11 +109,12 @@
 [![My Hackintosh EFI for ThinkPad L460](https://img.shields.io/badge/-L460%20Hackintosh-black?style=flat&logo=apple)](https://github.com/null2264/L460-Hackintosh)
 [![API with random content inside](https://img.shields.io/badge/-RandomAPI-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/RandomAPI)
 [![A fabric mod that allows you to customize/randomize cobblestone generator](https://img.shields.io/badge/-CobbleGen-black?style=flat&logo=minecraft)](https://github.com/null2264/CobbleGen)
-[![A fabric mod that lets you add skyblock-like world type(s)](https://img.shields.io/badge/-Skyblock%20Creator-black?style=flat&logo=minecraft)](https://github.com/null2264/SkyblockCreator)
+[![Frontend for Spirit (Akkoma fork)](https://img.shields.io/badge/-Ghostbox-black?style=flat&logo=react)](https://github.com/null2264/Ghostbox)
 [![](https://img.shields.io/badge/-And%20more%20other%20small%20project...-black?style=flat&logo=github)](https://github.com/null2264)
 
 #### Hiatus Projects
 
+[![A fabric mod that lets you add skyblock-like world type(s)](https://img.shields.io/badge/-Skyblock%20Creator-black?style=flat&logo=minecraft)](https://github.com/null2264/SkyblockCreator)
 [![A libre skin cancer detection app (made for Bangkit 2022)](https://img.shields.io/badge/-SkinCan-black?style=flat&logo=kotlin)](https://github.com/SkinCanOrg/SkinCan)
 [![Collection of IPTV Channels](https://img.shields.io/badge/-ziTV-black?style=flat&logo=appletv)](https://github.com/null2264/ziTV)
 [![An asynchronous API wrapper for speedrun.com](https://img.shields.io/badge/-speedrun.py-black?style=flat&logo=python)](https://github.com/null2264/speedrun.py)
