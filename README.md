@@ -97,33 +97,82 @@
 
 </details>
 
-#### Main Projects
-
-[![A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)](https://img.shields.io/badge/-Z3R0-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/ziBot)
-
 #### Active Projects
 
-[![A multi-purpose and customizable open-source discord bot (was Steve the Bot's fork)](https://img.shields.io/badge/-Z3R0-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/ziBot)
-[![Collection of my Configuration file](https://img.shields.io/badge/-dotfiles-black?style=flat&logo=linux)](https://github.com/null2264/dotfiles)
-[![Custom CSS/Theme that use zi colorscheme (my custom colorscheme)](https://img.shields.io/badge/-ziDark-black?style=flat&logo=css3)](https://github.com/null2264/ziDark)
-[![My Hackintosh EFI for ThinkPad L460](https://img.shields.io/badge/-L460%20Hackintosh-black?style=flat&logo=apple)](https://github.com/null2264/L460-Hackintosh)
-[![API with random content inside](https://img.shields.io/badge/-RandomAPI-black?style=flat&logo=python)](https://github.com/ZiRO-Bot/RandomAPI)
-[![A fabric mod that allows you to customize/randomize cobblestone generator](https://img.shields.io/badge/-CobbleGen-black?style=flat&logo=minecraft)](https://github.com/null2264/CobbleGen)
-[![Frontend for Spirit (Akkoma fork)](https://img.shields.io/badge/-Ghostbox-black?style=flat&logo=react)](https://github.com/null2264/Ghostbox)
-[![](https://img.shields.io/badge/-And%20more%20other%20small%20project...-black?style=flat&logo=github)](https://github.com/null2264)
+- [**Z3R0**](https://github.com/ZiRO-Bot/ziBot)
+
+  A multi-purpose and customizable open-source discord bot (was a fork of Steve the Bot)
+
+- [**dotfiles**](https://github.com/null2264/dotfiles)
+
+  Collection of my configuration file(s)
+
+- [**ziDark**](https://github.com/null2264/ziDark)
+
+  Custom CSS/Theme that uses 'ziDark' colour scheme
+
+- [**L460 Hackintosh**](https://github.com/null2264/L460-Hackintosh)
+
+  EFI file(s) for Hackintosh setup on ThinkPad L460
+
+- [**CobbleGen**](https://github.com/null2264/CobbleGen)
+
+  An MC mod that allows you to customise/randomise cobblestone (stone or even basalt) generator(s)
+
+- [**LibreExpFix**](https://github.com/null2264/LibreExpFix)
+
+  A small mod that fixes [MC-124177](https://bugs.mojang.com/browse/MC-124177)
+
+- **The "Paranormal" Projects**
+
+  Bunch of software that I (usually) fork for personal uses
+
+  - [**`spirit`**](https://github.com/null2264/spirit)
+ 
+    Fork of Akkoma for [fedi.aap](fedi.aap.my.id) instance
+
+  - [**Ghostbox**](https://github.com/null2264/Ghostbox)
+ 
+    Frontend for `spirit` (Akkoma fork)
+
+- [And many more...](https://github.com/null2264)
 
 #### Hiatus Projects
 
-[![A fabric mod that lets you add skyblock-like world type(s)](https://img.shields.io/badge/-Skyblock%20Creator-black?style=flat&logo=minecraft)](https://github.com/null2264/SkyblockCreator)
-[![A libre skin cancer detection app (made for Bangkit 2022)](https://img.shields.io/badge/-SkinCan-black?style=flat&logo=kotlin)](https://github.com/SkinCanOrg/SkinCan)
-[![Collection of IPTV Channels](https://img.shields.io/badge/-ziTV-black?style=flat&logo=appletv)](https://github.com/null2264/ziTV)
-[![An asynchronous API wrapper for speedrun.com](https://img.shields.io/badge/-speedrun.py-black?style=flat&logo=python)](https://github.com/null2264/speedrun.py)
+- [**ziTV**](https://github.com/null2264/ziTV)
+
+  Collection of IPTV channels (M3U and EPG)
+
+- [**`speedrun.py`**](https://github.com/null2264/speedrun.py)
+
+  An asynchronous API wrapper for speedrun.com
 
 #### Discontinued Projects
 
-[![Bedrock Port for Faithful 32x](https://img.shields.io/badge/-Faithful%20BE-black?style=flat&logo=minecraft)](https://github.com/null2264/Faithful-BE)
-[![Experimental Internationalization System](https://img.shields.io/badge/-i18n-black?style=flat&logo=googletranslate)](https://github.com/null2264/i18n)
-[![MultiMC fork but can be used without Premium account](https://img.shields.io/badge/-ziLauncher-black?style=flat&logo=cplusplus)](https://github.com/null2264/Project-MC-Launcher)
+- [**Random API**](https://github.com/ZiRO-Bot/RandomAPI)
+
+  API with random stuff thrown at it. Has been discontinued in favour of [`nexus`](https://github.com/ZiRO-Bot/nexus)
+
+- [**Faithful BE**](https://github.com/null2264/Faithful-BE)
+
+  Bedrock Port for Faithful 32x. Has been discontinued due to MrVizzy (Kraineff)'s Faithful licensing (their new textures, Vattic's is technically fine).
+  If you still use MrVizzy (Kraineff)'s "Faithful", please consider migrating to the REAL Faithful project: https://faithfulpack.net/.
+
+- [**i18n**](https://github.com/null2264/i18n)
+
+  An experimental i18n system for Python. Has been discontinued in favour of [Project Fluent](https://projectfluent.org/)
+
+- [**Project MC Launcher**](https://github.com/null2264/Project-MC-Launcher)
+
+  Offline-only MultiMC fork. Has been discontinued due to the release of [PrismLauncher (previously known as PolyMC)](https://github.com/PrismLauncher/PrismLauncher)
+
+- [**SkinCan**](https://github.com/SkinCanOrg/SkinCan)
+
+  A libre skin cancer detection app (made for Bangkit '22). Has been discontinue due to time constraint
+
+- [**SkyblockCreator**](https://github.com/null2264/SkyblockCreator)
+
+  A fabric mod that lets you add skyblock-like world type(s). Has been discontinued due to time constraint
 
 #### Contacts
 [![email](https://img.shields.io/badge/-me@palembani.xyz-black?style=flat&logo=gmail)](mailto:me@palembani.xyz)
