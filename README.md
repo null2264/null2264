@@ -175,10 +175,11 @@
   A fabric mod that lets you add skyblock-like world type(s). Has been discontinued due to time constraint
 
 #### Contacts
-[![email](https://img.shields.io/badge/-me@palembani.xyz-black?style=flat&logo=gmail)](mailto:me@palembani.xyz)
+[![email](https://img.shields.io/badge/-palembani@gmail.com-black?style=flat&logo=gmail)](mailto:palembani@gmail.com)
 [![twitter](https://img.shields.io/badge/-@ZiRO2264-black?style=flat&logo=twitter)](https://twitter.com/ZiRO2264)
 [![youtube](https://img.shields.io/badge/-@null2264-black?style=flat&logo=youtube)](https://www.youtube.com/@null2264)
 [![youtube](https://img.shields.io/badge/-@ZiRO2264-black?style=flat&logo=youtube)](https://www.youtube.com/@ZiRO2264)
 [![linkedin](https://img.shields.io/badge/-Ahmad%20Ansori%20Palembani-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmad-ansori-palembani-9a470b231/)
 [![instagram](https://img.shields.io/badge/-@aap2264-black?style=flat&logo=instagram)](https://www.instagram.com/aap2264)
 [![anilist](https://img.shields.io/badge/-ZiRO2264-black?style=flat&logo=anilist)](https://anilist.co/user/ZiRO2264)
+[![discord](https://img.shields.io/badge/-ziro2264-black?style=flat&logo=discord)](#)
