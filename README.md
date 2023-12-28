@@ -97,7 +97,11 @@
 
 </details>
 
+<details><summary>
+
 #### Active Projects
+
+  </summary>
 
 - [**Z3R0**](https://github.com/ZiRO-Bot/ziBot)
 
@@ -137,7 +141,13 @@
 
 - [And many more...](https://github.com/null2264)
 
+</details>
+
+<details><summary>
+  
 #### Hiatus Projects
+
+  </summary>
 
 - [**ziTV**](https://github.com/null2264/ziTV)
 
@@ -147,7 +157,13 @@
 
   An asynchronous API wrapper for speedrun.com
 
+</details>
+
+<details><summary>
+
 #### Discontinued Projects
+
+</summary>
 
 - [**Random API**](https://github.com/ZiRO-Bot/RandomAPI)
 
@@ -173,6 +189,8 @@
 - [**SkyblockCreator**](https://github.com/null2264/SkyblockCreator)
 
   A fabric mod that lets you add skyblock-like world type(s). Has been discontinued due to time constraint
+
+</details>
 
 #### Contacts
 [![email](https://img.shields.io/badge/-palembani@gmail.com-black?style=flat&logo=gmail)](mailto:palembani@gmail.com)
