@@ -139,6 +139,10 @@
  
     Frontend for `spirit` (Akkoma fork)
 
+  - [**Yōkai**](https://github.com/null2264/yokai)
+ 
+    Fork of TachiJ2K, a FOSS manga reader
+
 - [And many more...](https://github.com/null2264)
 
 </details>
