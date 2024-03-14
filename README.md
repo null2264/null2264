@@ -9,7 +9,7 @@
 
 </div>
 
-#### Tools (Oldest to Most Recently Learnt)
+**Tools (Oldest to Most Recently Learnt)**
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat&logo=ubuntu)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
@@ -65,11 +65,8 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=next)
 
-<details open><summary>
-  
-  #### Main Setup (Desktop)
-  
-  </summary>
+<details open><summary><b>Main Setup (Desktop)</b></summary>
+<br/>
   
 |**Model**| Biostar H61MLV2 |
 |:-|:-|
@@ -81,12 +78,9 @@
   
 </details>
 
-<details><summary>
+<details><summary><b>Hackintosh Setup (Laptop)</b></summary>
+<br/>
   
-  #### Hackintosh Setup (Laptop)
-  
-  </summary>
-
 |**Model**| Lenovo ThinkPad L460 |
 |:-|:-|
 |**Processor**| Intel Core i5-6300U 2.50GHz / 3.00GHz |
@@ -97,11 +91,7 @@
 
 </details>
 
-<details><summary>
-
-#### Active Projects
-
-  </summary>
+<details><summary><b>Active Projects</b></summary>
 
 - [**Z3R0**](https://github.com/ZiRO-Bot/ziBot)
 
@@ -147,11 +137,7 @@
 
 </details>
 
-<details><summary>
-  
-#### Hiatus Projects
-
-  </summary>
+<details><summary><b>Hiatus Projects</b></summary>
 
 - [**ziTV**](https://github.com/null2264/ziTV)
 
@@ -163,11 +149,7 @@
 
 </details>
 
-<details><summary>
-
-#### Discontinued Projects
-
-</summary>
+<details><summary><b>Discontinued Projects</b></summary>
 
 - [**Random API**](https://github.com/ZiRO-Bot/RandomAPI)
 
@@ -196,7 +178,8 @@
 
 </details>
 
-#### Contacts
+**Contacts**
+
 [![email](https://img.shields.io/badge/-palembani@gmail.com-black?style=flat&logo=gmail)](mailto:palembani@gmail.com)
 [![twitter](https://img.shields.io/badge/-@ZiRO2264-black?style=flat&logo=twitter)](https://twitter.com/ZiRO2264)
 [![youtube](https://img.shields.io/badge/-@null2264-black?style=flat&logo=youtube)](https://www.youtube.com/@null2264)
