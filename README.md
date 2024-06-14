@@ -113,9 +113,6 @@
 
   An MC mod that allows you to customise/randomise cobblestone (stone or even basalt) generator(s)
 
-- [**LibreExpFix**](https://github.com/null2264/LibreExpFix)
-
-  A small mod that fixes [MC-124177](https://bugs.mojang.com/browse/MC-124177)
 
 - **The "Paranormal" Projects**
 
@@ -175,6 +172,10 @@
 - [**SkyblockCreator**](https://github.com/null2264/SkyblockCreator)
 
   A fabric mod that lets you add skyblock-like world type(s). Has been discontinued due to time constraint
+
+- [**LibreExpFix**](https://github.com/null2264/LibreExpFix)
+
+  A small mod that fixes [MC-124177](https://bugs.mojang.com/browse/MC-124177). Has been archived since Mojang finally fixed the bug
 
 </details>
 
