@@ -87,7 +87,7 @@
 |**Graphics**| Intel HD Graphics 520 (Spoofed as HD620) |
 |**Memory**| 8GB |
 |**Storage**| 256 SSD |
-|**OS**| macOS Ventura (v13.2.1 - OCv0.9.2) |
+|**OS**| macOS Ventura (v13.6.7 - OCv1.0.0) |
 
 </details>
 
