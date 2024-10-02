@@ -113,10 +113,9 @@
 
   An MC mod that allows you to customise/randomise cobblestone (stone or even basalt) generator(s)
 
-
 - **The "Paranormal" Projects**
 
-  Bunch of software that I (usually) fork for personal uses
+  Bunch of software (usually a fork) that I maintain for personal uses
 
   - [**`spirit`**](https://github.com/null2264/spirit)
  
