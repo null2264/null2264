@@ -115,7 +115,7 @@
 
 - **The "Paranormal" Projects**
 
-  Bunch of software (usually a fork) that I maintain for personal uses
+  Bunch of software (usually a fork) that I maintain for personal uses that named after paranormal topics
 
   - [**`spirit`**](https://github.com/null2264/spirit)
  
