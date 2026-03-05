@@ -93,10 +93,6 @@
 
 <details><summary><b>Active Projects</b></summary>
 
-- [**Z3R0**](https://github.com/ZiRO-Bot/ziBot)
-
-  A multi-purpose and customizable open-source discord bot (was a fork of Steve the Bot)
-
 - [**dotfiles**](https://github.com/null2264/dotfiles)
 
   Collection of my configuration file(s)
@@ -175,6 +171,10 @@
 - [**LibreExpFix**](https://github.com/null2264/LibreExpFix)
 
   A small mod that fixes [MC-124177](https://bugs.mojang.com/browse/MC-124177). Has been archived since Mojang finally fixed the bug
+
+- [**Z3R0**](https://github.com/ZiRO-Bot/ziBot)
+
+  A multi-purpose and customizable open-source discord bot (was a fork of Steve the Bot)
 
 </details>
 
