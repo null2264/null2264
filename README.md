@@ -103,7 +103,7 @@
 
 - [**L460 Hackintosh**](https://github.com/null2264/L460-Hackintosh)
 
-  EFI file(s) for Hackintosh setup on ThinkPad L460
+  EFI file(s) for Hackintosh setup on ThinkPad L460. Handled with nix via [Umi Zatō](https://github.com/null2264/umizatou)
 
 - [**CobbleGen**](https://github.com/null2264/CobbleGen)
 
@@ -125,19 +125,15 @@
  
     Fork of TachiJ2K, a FOSS manga reader
 
+  - [**Umi Zatō**](https://github.com/null2264/umizatou)
+
+    An OpenCore bootloader manager powered by Nix
+
 - [And many more...](https://github.com/null2264)
 
 </details>
 
 <details><summary><b>Hiatus Projects</b></summary>
-
-- [**ziTV**](https://github.com/null2264/ziTV)
-
-  Collection of IPTV channels (M3U and EPG)
-
-- [**`speedrun.py`**](https://github.com/null2264/speedrun.py)
-
-  An asynchronous API wrapper for speedrun.com
 
 </details>
 
@@ -174,7 +170,15 @@
 
 - [**Z3R0**](https://github.com/ZiRO-Bot/ziBot)
 
-  A multi-purpose and customizable open-source discord bot (was a fork of Steve the Bot)
+  A multi-purpose and customizable open-source discord bot (was a fork of Steve the Bot). Has been archived lack of interest
+
+- [**ziTV**](https://github.com/null2264/ziTV)
+
+  Collection of IPTV channels (M3U and EPG). Has been discontinued due to lack of interest, I no longer watch TV lol
+
+- [**`speedrun.py`**](https://github.com/null2264/speedrun.py)
+
+  An asynchronous API wrapper for speedrun.com. Has been discontinued due to lack of interest, the API constantly breaking honestly kill my motivation to make continue developing this library
 
 </details>
 
